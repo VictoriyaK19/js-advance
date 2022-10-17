@@ -16,3 +16,4 @@ function aggregate(numbers) {
 }
 
 aggregate([1, 2, 3])
+
